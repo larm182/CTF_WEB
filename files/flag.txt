@@ -1,0 +1,1 @@
+FLAG{LFI_IS_FUN}
