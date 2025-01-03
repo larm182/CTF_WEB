@@ -1,3 +1,7 @@
+#!/usr/bin/python
+#-*- coding: utf-8 -*-
+#Autor: Luis Angel Ramirez Mendoza
+
 import sqlite3
 
 def init_db():
