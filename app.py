@@ -1,3 +1,7 @@
+#!/usr/bin/python
+#-*- coding: utf-8 -*-
+#Autor: Luis Angel Ramirez Mendoza
+
 from flask import Flask, render_template, request, redirect, url_for, session, flash
 import os
 import sqlite3
